@@ -5,7 +5,6 @@ I work on representation learning, generative modeling, and dynamical systems fo
 
 **Publications**
 - **KGO**: Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting (NeurIPS 2026) · [code](https://github.com/azencot-group/KGO)
-- **Super-Linear**: A Lightweight Pretrained Mixture of Linear Experts for Time Series Forecasting (TMLR 2026) · [paper](https://arxiv.org/abs/2509.15105) · [code](https://github.com/azencot-group/SuperLinear) · [model](https://huggingface.co/SequentialLearning/SuperLinear)
 
 I'm open to research and applied ML roles, and to research collaborations.
 
